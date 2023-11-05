@@ -2,16 +2,15 @@
 
 **That's Full Responsive My Personal Website With Lovely Tailwind. I Hope You Enjoy it!**
 
-![image-1](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/b371d3aa-500a-42dc-99a1-7468597d9c2b)
+![image-1](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/42be3774-6bbb-4c63-a651-854e3567ace7)
 
-![image-2](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/40b594bf-eca5-45a2-b2d1
+![image-2](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/faf8880d-cc92-4d75-bca8-6d4601607e64)
 
-![image-3](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/f2954e88-dfec-467a-abb3-80341bdc5ada)
--cbe5212af3f8)
+![image-3](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/1bca4fec-b211-4ae9-aa83-01ed4f5535d8)
 
-![image-4](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/0b3f3dca-4b8a-4347-a989-4a1463ccf416)
+![image-4](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/908d42bc-e61a-480e-9f9f-bba7f0c08ea6)
 
-![image-5](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/921e4b3a-7004-4ce9-bafa-a3153b99f82c)
+![image-5](https://github.com/Mohammad-Daryaei/Personal-Tailwind/assets/149871548/87edebad-81dd-4255-888c-6e5a1c3160be)
 
 - 🔗 [Demo Project]( https://mohammad-daryaei.github.io/Personal-Tailwind/)
 
