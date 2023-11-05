@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: bebas;
+    src: url("font/BebasNeue-Regular.ttf") format("opentype");
+  }
+  
+@font-face {
+    font-family: montserrat;
+    src: url("font/Montserrat-VariableFont_wght.ttf") format("opentype");
+  }
